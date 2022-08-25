@@ -1,0 +1,1 @@
+Hello, My name is Sean. I am a senior at UAlbany. I am looking forward to the semester with you all!

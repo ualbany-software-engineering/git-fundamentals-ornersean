@@ -1,0 +1,2 @@
+Hello, 
+My name is Sean and I am a senior at Ualbany. I know Java, C#, C++, and SQL. I have done some early game dev work as well.
